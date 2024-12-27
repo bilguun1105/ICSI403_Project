@@ -128,7 +128,7 @@ chmod +x makeit
 Compile 
 ```bash
 ./makeit
-cd dist
+cd deb
 ```
 Run
 ```bash
